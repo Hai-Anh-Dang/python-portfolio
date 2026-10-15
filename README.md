@@ -1,4 +1,4 @@
-# 🗺 Hai Anh Dang's Python Portfolio
+# 🗺 Python Portfolio
 
 I use Python to examine business questions through forecasting, model evaluation and diagnostic analysis. These projects compare models with simple baselines, check whether inputs are available when a decision is made, and explain where the evidence supports further testing.
 
